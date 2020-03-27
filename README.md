@@ -1,1 +1,1 @@
-# Bilddatenbank
+Ich werde eine Bilddatenbank Webseite erstellen, bei der man sich einloggen muss und dann entsprechend Bilder hoch und runter laden kann. Weitere Details muss ich mir noch überlegen. Dies ist das Grundgerüst.
